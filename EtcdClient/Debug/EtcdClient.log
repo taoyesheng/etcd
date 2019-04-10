@@ -1,0 +1,16 @@
+﻿  rpc.pb.cc
+  rpc.grpc.pb.cc
+d:\taoyesheng\etcdclient_github\include\grpcpp\impl\codegen\proto_buffer_writer.h(89): warning C4244: “初始化”: 从“int64_t”转换到“::size_t”，可能丢失数据
+  main.cpp
+d:\taoyesheng\etcdclient_github\etcdclient\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\taoyesheng\etcdclient_github\include\grpcpp\impl\codegen\proto_buffer_writer.h(89): warning C4244: “初始化”: 从“int64_t”转换到“::size_t”，可能丢失数据
+  lock.pb.cc
+  lock.grpc.pb.cc
+d:\taoyesheng\etcdclient_github\include\grpcpp\impl\codegen\proto_buffer_writer.h(89): warning C4244: “初始化”: 从“int64_t”转换到“::size_t”，可能丢失数据
+  kv.pb.cc
+  EtcdClientType.cc
+  EtcdClient.cc
+d:\taoyesheng\etcdclient_github\include\grpcpp\impl\codegen\proto_buffer_writer.h(89): warning C4244: “初始化”: 从“int64_t”转换到“::size_t”，可能丢失数据
+  auth.pb.cc
+  正在生成代码...
+  EtcdClient.vcxproj -> D:\taoyesheng\EtcdClient_github\Debug\EtcdClient.exe
